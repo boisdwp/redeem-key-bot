@@ -1,0 +1,10 @@
+Python (version 3.6 or higher)
+Nextcord library (nextcord)
+requests library
+json library
+random library
+time library
+nextcord.ext module (nextcord.ext)
+cooldowns module
+
+whenever you download all the req : type in python main.py in the cmd
